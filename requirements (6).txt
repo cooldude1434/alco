@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+langchain
+langchain-google-genai
+google-cloud-storage
+google-api-python-client
+google-cloud-aiplatform
+faiss-cpu
+python-dotenv
+langchain-community
+langchain-core
